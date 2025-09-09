@@ -1,0 +1,5 @@
+Resumen: 
+Se debe realizar un proyecto de software, el cual tenga como fin facilidar la gestion academica de una universidad (estudiantes y docentes). 
+Este mismo sera utilizado por el personal de oficina como administradores, estudiantes para consultar informacion y profesores para cargar notas y consultar listados. Para lo cual vamos a tener que realizar un registro, al cual vamos a poder gestionar (subida, bajada y modificación de los datos) de los alumnos y docentes.
+Al poder poseer diferentes cargos los docendes, tendran que tener definido su cargo y la materia en la cual lo dictan.
+Como tambien es necesario analizar el estado del estudiantes en la carrera para brindarles esa información y brindar una herramienta de seguimiento la cual avisa si esta en riesgo de abandonar.
