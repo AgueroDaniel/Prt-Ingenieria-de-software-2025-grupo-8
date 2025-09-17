@@ -1,6 +1,6 @@
 # Prt-Ingenieria-de-software-2025-grupo-4
 Proyecto integrador del grupo 4.
-- Daniel Ignacio Aguero
+- Daniel Ignacio Agüero
 - Maira Ayelen Quiroga
 - Ayelen Guzman
 - Ricardo Xavier Cardozo
