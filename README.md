@@ -1,5 +1,5 @@
-# Prt-Ingenieria-de-software-2025-grupo-4
-Proyecto integrador del grupo 4.
+# Prt-Ingenieria-de-software-2025-grupo-8
+Proyecto integrador del grupo 8.
 - Daniel Ignacio Agüero
 - Maira Ayelen Quiroga
 - Ayelen Guzman
